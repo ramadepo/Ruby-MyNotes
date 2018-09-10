@@ -1,0 +1,23 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    get_process_mem (0.2.2)
+    json (2.1.0)
+    linked-list (0.0.10)
+    murmurhash3 (0.1.6)
+    rubytree (1.0.0)
+      json (~> 2.1)
+      structured_warnings (~> 0.3)
+    structured_warnings (0.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  get_process_mem
+  linked-list
+  murmurhash3
+  rubytree
+
+BUNDLED WITH
+   1.16.2
